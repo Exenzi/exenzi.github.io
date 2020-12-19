@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Привет. Меня зовут Максим Рокицкий. Я Python-разработчик, специализирующийся на бекэнде. В этом блоге я публикую заметки о Python, Linux и разработке в целом.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Данный блог создан с помощью генератора статический сайтов [Jekyll](https://jekyllrb.com/) и хостится на [Github Pages](https://pages.github.com/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Тема блога - [Minima](https://github.com/jekyll/minima)
 
+### Ссылки:
 
-[jekyll-organization]: https://github.com/jekyll
+* [exenzi@gmail.com](mailto:exenzi@gmail.com)
+* [Github](https://github.com/exenzi)
+* [Telegram](https://t.me/exenzi)
+* [VK](https://vk.com/exenzi)
+* [Группа VK](https://vk.com/exenzidev)
