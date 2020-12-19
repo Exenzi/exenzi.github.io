@@ -35,9 +35,9 @@ plugins:
 minima:
   skin: dark
 
-author:
-  name: Макс Рокицкий
-  email: "exenzi@gmail.com"
+# author:
+#   name: Макс Рокицкий
+#   email: "exenzi@gmail.com"
 
 
 # Disqus Comments
