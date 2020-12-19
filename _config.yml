@@ -37,9 +37,9 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
-# author:
-#   name: Макс Рокицкий
-#   email: "exenzi@gmail.com"
+author:
+  name: Макс Рокицкий
+  email: "exenzi@gmail.com"
 
 
 # Disqus Comments
