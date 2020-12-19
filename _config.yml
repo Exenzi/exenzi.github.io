@@ -25,19 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://rokitsky.ru" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: exenzi
 
-minima:
-  skin: dark
-
-author:
-  name: Макс Рокицкий
-  email: "exenzi@gmail.com"
-
 # Build settings
 show_excerpts: true
 permalink: pretty
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
+
+author:
+  name: Макс Рокицкий
+  email: "exenzi@gmail.com"
 
 
 # Disqus Comments
