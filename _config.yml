@@ -32,6 +32,7 @@ disqus:
   shortname: rokitsky
 
 # Build settings
+show_excerpts: true
 permalink: pretty
 theme: minima
 plugins:
