@@ -37,6 +37,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links:
+    github: exenzi
+    telegram: rokitsky_ru
 
 author:
   name: Макс Рокицкий
