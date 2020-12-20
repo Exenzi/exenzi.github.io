@@ -225,3 +225,7 @@ pipenv --rm
 * [Документация Pipenv](https://docs.pipenv.org/)
 * [Документация venv](https://docs.python.org/3/library/venv.html)
 
+## Подписывайтесь в Телеграме, чтобы узнавать о новых полезных постах
+
+Ссылка: **[Telegram канал Rokitsky_ru](https://t.me/rokitsky_ru)**
+
