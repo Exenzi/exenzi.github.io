@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "enumarate() - Перебираем списки с нумераций"
+title:  "enumarate() - Перебираем списки с нумерацией"
 date:   2020-12-22 18:58:22 +0300
 author: Макс Рокицкий
 tags: python enumerate list
