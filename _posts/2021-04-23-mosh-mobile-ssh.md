@@ -37,3 +37,6 @@ sudo apt install mosh
 mosh user@ipaddress -p 60000
 ```
 
+* [Сайт Mosh](https://mosh.org/)
+* [Статья на Хабре](https://habr.com/ru/post/243651/)
+
